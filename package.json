@@ -1,5 +1,9 @@
 {
   "version": "0.0.1",
   "main": "./dist/OnlineForm.umd.min.js",
-  "name": "ooms-onlineform"
+  "name": "ooms-onlineform",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yojhop/ooms-onlineform.git"
+  }
 }
