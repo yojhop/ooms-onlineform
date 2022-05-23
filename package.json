@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/OnlineForm.umd.min.js",
   "name": "ooms-onlineform",
   "repository": {
